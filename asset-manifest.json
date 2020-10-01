@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Snippet-Gen/static/css/main.fff56229.chunk.css",
+    "main.js": "/Snippet-Gen/static/js/main.e70763f7.chunk.js",
+    "main.js.map": "/Snippet-Gen/static/js/main.e70763f7.chunk.js.map",
+    "runtime-main.js": "/Snippet-Gen/static/js/runtime-main.dd87f21b.js",
+    "runtime-main.js.map": "/Snippet-Gen/static/js/runtime-main.dd87f21b.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/Snippet-Gen/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.bc10003e.chunk.js": "/Snippet-Gen/static/js/2.bc10003e.chunk.js",
+    "static/js/2.bc10003e.chunk.js.map": "/Snippet-Gen/static/js/2.bc10003e.chunk.js.map",
+    "index.html": "/Snippet-Gen/index.html",
+    "precache-manifest.a36f9851e61384a5c69a4594c92aae5e.js": "/Snippet-Gen/precache-manifest.a36f9851e61384a5c69a4594c92aae5e.js",
+    "service-worker.js": "/Snippet-Gen/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/Snippet-Gen/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.fff56229.chunk.css.map": "/Snippet-Gen/static/css/main.fff56229.chunk.css.map",
+    "static/js/2.bc10003e.chunk.js.LICENSE.txt": "/Snippet-Gen/static/js/2.bc10003e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd87f21b.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.bc10003e.chunk.js",
+    "static/css/main.fff56229.chunk.css",
+    "static/js/main.e70763f7.chunk.js"
+  ]
+}
