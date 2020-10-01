@@ -44,9 +44,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### `yarn deploy`
 
-Ues `yarn build` to create production files.
-Deploys project to github pages.
-Change homepage url to deploy to your own github page.
+Ues `yarn build` to create production files.<br />
+Deploys project to `github pages`.<br />
+Change `homepage` url in `package.json` to deploy to your own github page.
 
 ## Learn More
 
