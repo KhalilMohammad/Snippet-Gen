@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Solution description
+
+Snippet generation uses [Hacker News Rest API](http://hn.algolia.com) to get search results.
+I am using data from above api to show it in a formatted way.
+
 ## Available Scripts
 
 In the project directory, you can run:
